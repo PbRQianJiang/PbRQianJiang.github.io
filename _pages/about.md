@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Xiuying Chen](https://iriscxy.github.io/) 
 
 > I am currently actively seeking for Online or offline research internships or future PhD opportunities. If you have any relevant opportunities or suggestions, please feel free to [contact me](202316187@stu.neu.edu.cn). My wechat account is "hores_driver".I am very excited to discuss potential collaborations.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/cv.pdf).
+You can find my CV here: [qian_jiang's Curriculum Vitae](../assets/cv.pdf).
 
 
 Educations
