@@ -11,14 +11,14 @@ I'm a second year undergraduate student(2027.6 graduate) from [School of Compute
 
 I am very fortunate to be advised by [Xiuying Chen](https://iriscxy.github.io/) of NLP Lab from [mbzuai University](https://mbzuai.ac.ae/). I was advised by [Miao Fang](https://jsjytx.neuq.edu.cn/info/1041/1634.htm) of Voice & Intelligence Systems Lab from [Northeastern University](https://www.neuq.edu.cn/)
 
-> I am currently actively seeking for Online or offline research internships or future PhD opportunities. If you have any relevant opportunities or suggestions, please feel free to [contact me](202316187@stu.neu.edu.cn). I am very excited to discuss potential collaborations.
+> I am currently actively seeking for Online or offline research internships or future PhD opportunities. If you have any relevant opportunities or suggestions, please feel free to [contact me](202316187@stu.neu.edu.cn). My wechat account is "hores_driver".I am very excited to discuss potential collaborations.
 
-#You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [XX's Curriculum Vitae](../assets/cv.pdf).
 
 
 Educations
 ======
-  *2023.09 - now* : B.E.(expected),<img src='files/NEU.png' style='width: 1.2em;'> Northeastern University(NEU)
+  *2023.09 - 2027.06* : B.E.,<img src='files/NEU.png' style='width: 1.2em;'> Northeastern University(NEU)
 
 ### Proficiencies
       
@@ -32,7 +32,3 @@ Educations
   |probability theory|100|
   |data structure|94|
   |...|...|
-
-Add Information
-======
-Waiting for updating
