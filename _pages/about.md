@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student(2027.6 graduate) from [School of Computer and Communication Engineering](https://jsjytx.neuq.edu.cn/), [Northeastern University](https://www.neuq.edu.cn/). My research interest includes Multimodal, jailbreak, deep learning.
+I'm a second year undergraduate student(2027.6 graduate) from [School of Computer and Communication Engineering](https://jsjytx.neuq.edu.cn/), Northeastern University. My research interest includes Multimodal(audio), Trustworthy ai(jailbreak,audio), other field in deep learning.
 
 I am very fortunate to be advised by [Xiuying Chen](https://iriscxy.github.io/) of NLP Lab from [mbzuai University](https://mbzuai.ac.ae/). I was advised by [Miao Fang](https://jsjytx.neuq.edu.cn/info/1041/1634.htm) of Voice & Intelligence Systems Lab from [Northeastern University](https://www.neuq.edu.cn/)
 
@@ -15,11 +15,10 @@ I am very fortunate to be advised by [Xiuying Chen](https://iriscxy.github.io/) 
 
 #You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
 Educations
 ======
-  *2023.09 - now* : B.E.(expected),<img src='files/hust.png' style='width: 1.2em;'> Northeastern University(NEU)
+  *2023.09 - now* : B.E.(expected),<img src='files/NEU.png' style='width: 1.2em;'> Northeastern University(NEU)
 
 ### Proficiencies
       
@@ -36,4 +35,4 @@ Educations
 
 Add Information
 ======
-This site is not yet complete, so don't be confused if you come across other information that doesn't belong to me
+Waiting for updating
