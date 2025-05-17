@@ -7,26 +7,57 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student(2027.6 graduate) from Northeastern University(A level in computer science rankings,985 top University Alliance). 
+I'm a second year undergraduate student(2027.6 graduate) from Northeastern University. 
 
-My research interests are security and interpretability in the field of trustworthy AI (intersecting with various modalities) , multimodality,other field in deep learning.
+I am very fortunate to be advised by [Xiuying Chen](https://iriscxy.github.io/) of NLP Lab from [mbzuai University](https://mbzuai.ac.ae/).I am honored to be advised by [Miao Fang](https://jsjytx.neuq.edu.cn/info/1041/1634.htm) of [Language & Intelligence Systems Lab](https://neuqnlp.github.io/) from [Northeastern University](https://www.neuq.edu.cn/)
 
-I am very fortunate to be advised by [Xiuying Chen](https://iriscxy.github.io/) of NLP Lab from [mbzuai University](https://mbzuai.ac.ae/). I was advised by [Miao Fang](https://jsjytx.neuq.edu.cn/info/1041/1634.htm) of Language & Intelligence Systems Lab from [Northeastern University](https://www.neuq.edu.cn/)
-
-In addition, I am lucky to serve as the student leader of [NEUQ LIS Lab](https://neuqnlp.github.io/) in 2025-2026, responsible for the operation and recruitment of new members of the lab. Here, I work happily with excellent partners, they have done a lot of great work.They are really excellent!
+In addition, I am lucky to serve as the student leader of [NEUQ LIS Lab](https://neuqnlp.github.io/) in 2025-2026, responsible for the operation and recruitment of new members of the lab,a place staffed by undergraduates. Here, I work happily with excellent partners, they have done a lot of great work.They are really excellent!
 
 > I am currently actively seeking for Online or offline research internships or future PhD opportunities. If you have any relevant opportunities or suggestions, please feel free to [contact me](202316187@stu.neu.edu.cn). My wechat account is "hores_driver".I am very excited to discuss potential collaborations.
 
 You can find my CV here: [qian_jiang's Curriculum Vitae](../assets/cv_English.pdf).
 
+Research Interesting
+======
+My research interests are security and interpretability in the field of trustworthy AI (intersecting with various modalities) , multimodality,other field in deep learning.
+By the way,I'm currently studying the security of diffusion and am interested in some of its properties.
+
+
+Publications
+======
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/AudioJailbreak.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**]()  ![Static Badge](https://img.shields.io/badge/NeurlPS2025-Submission-green)
+
+Zirui Song\*, **Qian Jiang\***, Mingxuan Cui, Mingzhe Li, Lang Gao, Zeyu Zhang, Zixiang Xu, Yanbo Wang, Chenxi Wang, Guangxian Ouyang, Zhenhao Chen, Xiuying Chen
+(\*: first co-authors)
+
+*"AJailBench: LAM safety jailbreak benchmark. Evaluates vulnerability using adversarial audio. Reveals LAMs lack robustness."*
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='files/ManipVLM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ [**ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models**]() ![Static Badge](https://img.shields.io/badge/NeurlPS2025-Submission-green)
+
+Zirui Song\*, Guangxian Ouyang\*, Mingzhe Li, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, **Qian Jiang**, Zhenhao Chen, Zhong-Zhi Li, Rui Yan, Xiuying Chen
+(\*: first co-authors)
+
+*"ManipLVM-R1: RL with verifiable rewards improves LVLM robotic manipulation generalization without costly data."*
+</div>
+</div>
 
 Educations
 ======
   *2023.09 - 2027.06* : B.E.,<img src='files/NEU.png' style='width: 1.2em;'> Northeastern University(NEU)
+  *2024.11 - now* : intern,<img src='files/mbzuai.png' style='width: 1.2em;'> Mohamed bin Zayed University of Artificial Intelligence(mbzuai)
 
 ### Proficiencies
       
-  **GPA:4.33/5.00** (rank:1/196 in Computer Science and Technology major up to 2025.3)
+  **GPA:4.33/5.00** (rank:1/196 in Computer Science and Technology major up to 2025.5)
 
   |Course|Result|
   |:---:|:---:|
