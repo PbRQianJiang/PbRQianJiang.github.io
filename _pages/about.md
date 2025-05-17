@@ -11,11 +11,9 @@ Hello,I am Qian Jiang,a sophomore computer science undergraduate student at Nort
 
 I am very fortunate to be advised by [Xiuying Chen](https://iriscxy.github.io/) of NLP Lab from [mbzuai University](https://mbzuai.ac.ae/).I am honored to be advised by [Miao Fang](https://jsjytx.neuq.edu.cn/info/1041/1634.htm) of [Language & Intelligence Systems Lab](https://neuqnlp.github.io/) from [Northeastern University](https://www.neuq.edu.cn/)
 
-In addition, I am lucky to serve as the student leader of [NEUQ LIS Lab](https://neuqnlp.github.io/) in 2025-2026, responsible for the operation and recruitment of new members of the lab,a place staffed by undergraduates. Here, I work happily with excellent partners, they have done a lot of great work!
+In addition, I am lucky to serve as the student leader of [NEUQ LIS Lab](https://neuqnlp.github.io/) in 2025-2026, responsible for the operation and recruitment of new members of the lab,a place staffed by undergraduates.
 
 > I am currently actively seeking for Online or offline research internships or future PhD opportunities. If you have any relevant opportunities or suggestions, please feel free to [contact me](202316187@stu.neu.edu.cn). My wechat account is "hores_driver".I am very excited to discuss potential collaborations.
-
-You can find my CV here: [qian_jiang's Curriculum Vitae](../assets/cv_English.pdf).
 
 Research Interesting
 ======
@@ -69,3 +67,5 @@ Proficiencies
   |Probability Theory and Statistics|100|
   |Data Structure|94|
   |...|...|
+
+You can find my CV here: [qian_jiang's Curriculum Vitae](../assets/cv_English.pdf).
