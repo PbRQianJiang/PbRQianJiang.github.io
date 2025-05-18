@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Xiuying Chen](https://iriscxy.github.io/) 
 
 In addition, I am lucky to serve as the student leader of [NEUQ LIS Lab](https://neuqnlp.github.io/) in 2025-2026, responsible for the operation and recruitment of new members of the lab,a place staffed by undergraduates.
 
-> I am currently actively seeking for Online or offline research internships or future PhD opportunities. If you have any relevant opportunities or suggestions, please feel free to [contact me](202316187@stu.neu.edu.cn). My wechat account is "hores_driver".I am very excited to discuss potential collaborations.
+> I am currently actively seeking for Online or offline research internships or future PhD opportunities. If you have any relevant opportunities or suggestions, please feel free to [contact me](202316187@stu.neu.edu.cn).I am very excited to discuss potential collaborations.
 
 Research Interesting
 ======
