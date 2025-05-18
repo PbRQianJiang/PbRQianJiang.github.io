@@ -23,7 +23,8 @@ Research Interesting
 
 Educations
 ======
-  *2023.09 - 2027.06* : B.E.,<img src='files/NEU.png' style='width: 1.2em;'> Northeastern University(NEU) **GPA:4.33/5,rank:1/196** <br>
+  *2023.09 - 2027.06* : B.E.,<img src='files/NEU.png' style='width: 1.2em;'> Northeastern University(NEU) **GPA:4.33/5,rank:1/196** <br><br>
+  
   *2024.11 - now* : intern,<img src='files/mbzuai.png' style='width: 1.2em;'> Mohamed bin Zayed University of Artificial Intelligence(mbzuai)
 
 Publications
