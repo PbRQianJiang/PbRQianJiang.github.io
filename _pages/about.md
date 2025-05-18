@@ -34,7 +34,7 @@ Publications
 
  [**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**]()  ![Static Badge](https://img.shields.io/badge/NeurlPS2025-Submission-green)
 
-Zirui Song\*, **Qian Jiang\***, Mingxuan Cui, Mingzhe Li, Lang Gao, Zeyu Zhang, Zixiang Xu, Yanbo Wang, Chenxi Wang, Guangxian Ouyang, Zhenhao Chen, Xiuying Chen
+Zirui Song\*, **Qian Jiang\***, Mingxuan Cui\*, Mingzhe Li, Lang Gao, Zeyu Zhang, Zixiang Xu, Yanbo Wang, Chenxi Wang, Guangxian Ouyang, Zhenhao Chen, Xiuying Chen
 (\*: first co-authors)
 
 *"AJailBench: LAM safety jailbreak benchmark. Evaluates vulnerability using adversarial audio. Reveals LAMs lack robustness."*
