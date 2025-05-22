@@ -33,7 +33,7 @@ Publications
 <div class='paper-box'><div class='paper-box-image'><div><img src='files/AudioJailbreak.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
- [**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**]()  ![Static Badge](https://img.shields.io/badge/NeurlPS2025-Submission-green)
+ [**Audio Jailbreak: An Open Comprehensive Benchmark for Jailbreaking Large Audio-Language Models**](https://arxiv.org/abs/2505.15406)  ![Static Badge](https://img.shields.io/badge/NeurlPS2025-Submission-green)
 
 Zirui Song\*, **Qian Jiang\***, Mingxuan Cui\*, Mingzhe Li, Lang Gao, Zeyu Zhang, Zixiang Xu, Yanbo Wang, Chenxi Wang, Guangxian Ouyang, Zhenhao Chen, Xiuying Chen
 (\*: first co-authors)
