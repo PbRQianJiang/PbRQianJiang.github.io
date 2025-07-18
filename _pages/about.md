@@ -43,17 +43,22 @@ Zirui Song\*, **Qian Jiang\***, Mingxuan Cui\*, Mingzhe Li, Lang Gao, Zeyu Zhang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='files/ManipVLM.png' alt="sym" width="70%"></div></div>
+<!-- 
+<div class='paper-box'>
+<div class='paper-box-image'>
+<div><img src='files/ManipVLM.png' alt="sym" width="70%"></div>
+</div>
 <div class='paper-box-text' markdown="1">
 
  [**ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models**](https://arxiv.org/abs/2505.16517) ![Static Badge](https://img.shields.io/badge/NeurlPS2025-Submission-green)
 
-Zirui Song\*, Guangxian Ouyang\*, Mingzhe Li, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, **Qian Jiang**, Zhenhao Chen, Zhong-Zhi Li, Rui Yan, Xiuying Chen
-(\*: first co-authors)
+Zirui Song*, Guangxian Ouyang*, Mingzhe Li, Yuheng Ji, Chenxi Wang, Zixiang Xu, Zeyu Zhang, Xiaoqing Zhang, **Qian Jiang**, Zhenhao Chen, Zhong-Zhi Li, Rui Yan, Xiuying Chen
+(*: first co-authors)
 
 *"ManipLVM-R1: RL with verifiable rewards improves LVLM robotic manipulation generalization without costly data."*
 </div>
 </div>
+-->
 
 
 Proficiencies
