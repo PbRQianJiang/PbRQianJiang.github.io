@@ -8,31 +8,31 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Qian Jiang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://PbRQianJiang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+name                     : &name "Qian Jiang"
+description              : &description "Academic homepage of Qian Jiang"
+url                      : "https://PbRQianJiang.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "PbRQianJiang/PbRQianJiang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "/images/portrait.jpg"
   name             : "Qian Jiang"
   pronouns         : # example: "she/her"  
-  bio              : "a cs-ai researcher"
-  location         : "Huizhou City, Guangdong Province, China"
-  employer         : "Northeastern University"
+  bio              : "Trustworthy AI, multimodal foundation models, and AI agents"
+  location         : "Huizhou, Guangdong, China"
+  employer         : "Peking University Shenzhen Graduate School"
   uri              : # URL
-  email            : "202316187@stu.neu.edu.cn" 
+  email            : "202316187@stu.neu.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/schhp?hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=0XHXld8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
