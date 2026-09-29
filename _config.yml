@@ -21,7 +21,7 @@ repository               : "PbRQianJiang/PbRQianJiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/portrait.jpg"
+  avatar           : "portrait.jpg"
   name             : "Qian Jiang"
   pronouns         : # example: "she/her"  
   bio              : "Trustworthy AI, multimodal foundation models, and AI agents"
